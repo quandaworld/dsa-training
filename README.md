@@ -1,2 +1,2 @@
 # dsa-training
-This repository contains my solutions to LeetCode problems.
+This repository contains my solutions to LeetCode problems. Programming language: JavaScript.
