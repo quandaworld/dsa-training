@@ -4,11 +4,6 @@
  * @return {boolean}
  */
 function isIsomorphic(s, t) {
-    // If s and t are of different lengths, they cannot be isomorphic
-    if (s.length !== t.length) {
-        return false;
-    }
-
     const sToT = new Map();
     const tToS = new Map();
 
